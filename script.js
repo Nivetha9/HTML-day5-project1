@@ -1,0 +1,12 @@
+document.getElementById("lotus").addEventListener('click',function(){
+    document.getElementById("image").src="https://cdn.pixabay.com/photo/2018/04/05/22/53/flowers-3294463_1280.jpg"
+})
+document.getElementById("seeds").addEventListener('click',function(){
+    document.getElementById("image").src="https://cdn.pixabay.com/photo/2021/04/26/10/23/bottle-6208588_640.jpg"
+});
+document.getElementById("seed-growing").addEventListener('click',function(){
+    document.getElementById("image").src="https://cdn.pixabay.com/photo/2017/07/15/13/21/lotus-flower-2506451_640.jpg" 
+});
+document.getElementById("bud").addEventListener('click',function(){
+    document.getElementById("image").src="https://cdn.pixabay.com/photo/2019/03/05/12/36/flower-4036102_1280.jpg" 
+});

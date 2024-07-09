@@ -1,0 +1,42 @@
+body{
+    background-color: #f04f91;
+    color:#f8c207;
+}
+
+
+#seeds{
+    border-color:5px solid black;
+    background-color: #42fd61;
+    border-radius: 10px;
+    height: 40px;
+    width: 60px;
+    bottom: 100px;
+}
+#seed-growing{
+    border-color:5px solid black ;
+    background-color: #42fd61;
+    border-radius: 10px;
+    height: 40px;
+    width: 60px;
+    bottom: 100px;
+}
+#bud{
+    border-color:5px solid black ;
+    background-color: #42fd61;
+    border-radius: 10px;
+    height: 40px;
+    width: 60px;
+    bottom: 100px;
+}
+#lotus{
+    border-color:5px solid black ;
+    background-color: #42fd61;
+    border-radius: 10px;
+    height: 40px;
+    width: 60px;
+    bottom: 100px;
+}
+#image{
+    border-radius: 30px;
+    border-color: 5px solid black;
+}
